@@ -1,0 +1,1 @@
+from .ListOfDicts2Excel import write_to_excel
